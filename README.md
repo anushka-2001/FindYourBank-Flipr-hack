@@ -104,5 +104,7 @@ _Here is how to install Find Your Bank Locally._
 <!-- USAGE EXAMPLES -->
 ## Demo
 
-<img src="images/FindYourBank.mp4" alt="video demo"/>
+<img src="images/image (1).png" alt="video demo" label="Home Page" >
+<img src="images/image (2).png" alt="video demo" label="Bank"/ >
+<img src="images/image (3).png" alt="video demo" label="Details Page"/ >
 

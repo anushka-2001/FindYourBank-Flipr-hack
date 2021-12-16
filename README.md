@@ -9,7 +9,7 @@
   <p align="center">
     Search for banks using IFSC Code, Branch, City, Bank ID and more
     <br />
-    <a href="https://findyourbankdetails.herokuapp.com/bank-details/110"><strong>Check out the website »</strong></a>
+    <a href="https://findyourbankdetails.herokuapp.com/"><strong>Check out the website »</strong></a>
     <br />
     <br />
    
@@ -104,5 +104,5 @@ _Here is how to install Find Your Bank Locally._
 <!-- USAGE EXAMPLES -->
 ## Demo
 
-<img src="demo.gif" alt="video demo"/>
+<img src="images/FindYourBank.mp4" alt="video demo"/>
 
